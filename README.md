@@ -7,8 +7,8 @@
  - Tockenizer : nltk
  - 크롤링 라이브러리 : BeautifulSoup4, Selenium
  - 시각화 라이브러리 : wordcloud
- - 토픽 모델링 : LDA
-
+ - 토픽 모델링 : LDA, TF-IDF, LSA
+ - 유사도 라이브러리 : cosine_similarity
 ## 개발 기간
  - 20.09 - 20.09
 
